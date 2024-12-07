@@ -95,7 +95,7 @@ Publish the website in the LocalHost.
   <div class="book-cover">
     <div class="title"><hr>The Journey To The Unkown <hr></div>
 
-    <div class="author">-by Rj Naveen... </div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
     <div class="mypic">
       <img src="24900811.jpg" width="125" height="150" alt="">
@@ -111,6 +111,6 @@ Publish the website in the LocalHost.
 
 
 # OUTPUT:
-![image](https://github.com/user-attachments/assets/c146afb2-10a3-4ab3-9745-4bc9ac9b64d0)
+![image](https://github.com/user-attachments/assets/55cd8e7b-a2ec-488a-a6ee-36709b3dfe58)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
