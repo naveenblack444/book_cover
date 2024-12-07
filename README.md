@@ -46,8 +46,8 @@ Publish the website in the LocalHost.
     }
     
     .book-cover {
-    width: 470px;
-    height: 670px;
+    width: 500px;
+    height: 740px;
     background-image: url(https://images.pexels.com/photos/1576939/pexels-photo-1576939.jpeg?cs=srgb&dl=pexels-sulimansallehi-1576939.jpg&fm=jpg);
     background-size: 720px;
     background-repeat: no-repeat;
@@ -64,18 +64,28 @@ Publish the website in the LocalHost.
         .title {
         font-size: 2.7em;
         font-weight: bold;
-        margin-top: 40px;
+        margin-top: 50px;
         font-style:italic;
     }
     
     .author {
+          position: relative;
           font-size: 1.2em;
-          margin-bottom:400px;
+          margin-bottom:300px;
           font-style: italic;
+          left: 120px;
     }
-    
+
+    .mypic{
+           position: relative;
+           top: 1px;
+           left: 390px;
+           width: 100px;
+           height: 150px;
+           background-size: cover;
+       }
     .bottom-text {
-              font-size: 1em;
+              font-size: 0.9em;
               opacity: 0.7;
               color: black;
     }
@@ -83,11 +93,14 @@ Publish the website in the LocalHost.
 </head>
 <body>
   <div class="book-cover">
-    <div class="title">The Journey To The Unkown</div>
-    
-    <div class="author"><br>-by Rj Naveen... <hr> </div>
+    <div class="title"><hr>The Journey To The Unkown <hr></div>
 
-    <div class="bottom-text" style="color: rgb(8, 83, 126);"><hr>"Embark on a Journey Beyond Limits—Adventure Awaits on Every Page!"</div>
+    <div class="author">-by Rj Naveen... </div>
+
+    <div class="mypic">
+      <img src="24900811.jpg" width="125" height="150" alt="">
+  </div>
+    <div class="bottom-text" style="color: rgb(255, 255, 255); font-weight: bold ;"><hr>"Embark on a Journey Beyond Limits, Adventure Awaits on Every Page!"</div>
   </div>
   
 </body>
@@ -98,6 +111,6 @@ Publish the website in the LocalHost.
 
 
 # OUTPUT:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/c146afb2-10a3-4ab3-9745-4bc9ac9b64d0)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
